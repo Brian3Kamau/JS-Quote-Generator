@@ -22,9 +22,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 MyPortfoli Project <a name="about-project"></a>
+# 📖 JavaScript Quote Generator Project <a name="about-project"></a>
 
-**My Portfolio Project** is a is a Project to enable me put mpractice some Skills I have aquired in JavasCript
+**JavaScript Quote Generator Project** is a is a simple Project to enable me practice some of the Skills I have learned in JavasCript
 
 ## 🛠 Built With <a name="built-with"></a>
 
