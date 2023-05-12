@@ -87,7 +87,6 @@ body {
   align-items: flex-end;
   font-family: "Kaushan Script", cursive;
   font-size: 0.7rem;
-  /* background-color: red; */
   margin-top: 10px;
   height: 100px;
 }
@@ -107,7 +106,6 @@ body {
 }
 
 .compiler-text {
-  /* width: 600px; */
   flex-grow: 4;
   background: #262626;
   color: #fff;
@@ -118,13 +116,3 @@ body {
 .compiler-text:hover {
   background-color: #3b3e45;
 }
-
-/* .compiler {
-  font-family: "Trebuchet MS", sans-serif;
-  width: 50%;
-  height: 200px;
-  background-color: #fff;
-  border-radius: 15px;
-  padding: 50px 40px;
-  box-shadow: 0 0 10px;
-} */
