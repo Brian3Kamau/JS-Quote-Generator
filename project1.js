@@ -35,16 +35,13 @@ const quotes = [
     quote: '"Remember that not getting what you want is sometimes a wonderful stroke of luck."',
     person: 'Dalai Lama',
   }, {
-    quote: '"The journey of a thousand miles begins with one step." ',
-    person: 'Lao Tzu',
-  }, {
     quote: '"There are no limitations to the mind except those we acknowledge." ',
     person: 'Napoleon Hill, Think and Grow Rich',
   }, {
     quote: '"You are what you are because of the dominating thoughts that you have permitted to occupy your mind." ',
     person: 'Napoleon Hill, Think and Grow Rich',
   }, {
-    quote: '"Greatness is the Ability to Recognize the Power of Your Own Mind, to Embrace It, and Use It." ',
+    quote: '"Greatness is the Ability to recognize the power of your own Mind, to embrace it, and use it." ',
     person: 'Napoleon Hill',
   }, {
     quote: '"Think well before you speak, because your word can plant either the seed of success or failure in the mind of some other person." ',
